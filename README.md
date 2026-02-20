@@ -10,7 +10,8 @@ See the [Python Jupyter Notebooks in Excel](https://www.pyxll.com/blog/python-ju
 - Jupyter >= 1.0.0
 - notebook >= 6.0.0
 - PySide2, or PySide6 for Python >= 3.10
-  
+- pywin32 >= 301, for `%xl_get`/`%xl_set` magic functions
+
 ### Optional
 
 - jupyterlab >= 4.0.0
